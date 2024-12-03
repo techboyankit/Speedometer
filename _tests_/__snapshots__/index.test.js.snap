@@ -1,0 +1,328 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main Component Tests main component details should render the component correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignSelf": "center",
+        "marginVertical": 5,
+      },
+      Object {
+        "height": 365,
+        "width": 730,
+      },
+      Object {},
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#e6e6e6",
+          "borderColor": "#ffffff",
+          "justifyContent": "flex-end",
+          "overflow": "hidden",
+        },
+        Object {
+          "borderTopLeftRadius": 365,
+          "borderTopRightRadius": 365,
+          "height": 365,
+          "width": 730,
+        },
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderBottomRightRadius": 0,
+            "borderTopRightRadius": 0,
+            "left": 0,
+            "position": "absolute",
+            "top": 0,
+          },
+          Object {
+            "backgroundColor": "#ff2900",
+            "borderRadius": 365,
+            "height": 730,
+            "transform": Array [
+              Object {
+                "translateX": 182.5,
+              },
+              Object {
+                "rotate": "90deg",
+              },
+              Object {
+                "translateX": -182.5,
+              },
+            ],
+            "width": 365,
+          },
+          Object {},
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "borderBottomRightRadius": 0,
+            "borderTopRightRadius": 0,
+            "left": 0,
+            "position": "absolute",
+            "top": 0,
+          },
+          Object {
+            "backgroundColor": "#ff5400",
+            "borderRadius": 365,
+            "height": 730,
+            "transform": Array [
+              Object {
+                "translateX": 182.5,
+              },
+              Object {
+                "rotate": "120deg",
+              },
+              Object {
+                "translateX": -182.5,
+              },
+            ],
+            "width": 365,
+          },
+          Object {},
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "borderBottomRightRadius": 0,
+            "borderTopRightRadius": 0,
+            "left": 0,
+            "position": "absolute",
+            "top": 0,
+          },
+          Object {
+            "backgroundColor": "#f4ab44",
+            "borderRadius": 365,
+            "height": 730,
+            "transform": Array [
+              Object {
+                "translateX": 182.5,
+              },
+              Object {
+                "rotate": "150deg",
+              },
+              Object {
+                "translateX": -182.5,
+              },
+            ],
+            "width": 365,
+          },
+          Object {},
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "borderBottomRightRadius": 0,
+            "borderTopRightRadius": 0,
+            "left": 0,
+            "position": "absolute",
+            "top": 0,
+          },
+          Object {
+            "backgroundColor": "#f2cf1f",
+            "borderRadius": 365,
+            "height": 730,
+            "transform": Array [
+              Object {
+                "translateX": 182.5,
+              },
+              Object {
+                "rotate": "180deg",
+              },
+              Object {
+                "translateX": -182.5,
+              },
+            ],
+            "width": 365,
+          },
+          Object {},
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "borderBottomRightRadius": 0,
+            "borderTopRightRadius": 0,
+            "left": 0,
+            "position": "absolute",
+            "top": 0,
+          },
+          Object {
+            "backgroundColor": "#14eb6e",
+            "borderRadius": 365,
+            "height": 730,
+            "transform": Array [
+              Object {
+                "translateX": 182.5,
+              },
+              Object {
+                "rotate": "210deg",
+              },
+              Object {
+                "translateX": -182.5,
+              },
+            ],
+            "width": 365,
+          },
+          Object {},
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "borderBottomRightRadius": 0,
+            "borderTopRightRadius": 0,
+            "left": 0,
+            "position": "absolute",
+            "top": 0,
+          },
+          Object {
+            "backgroundColor": "#00ff6b",
+            "borderRadius": 365,
+            "height": 730,
+            "transform": Array [
+              Object {
+                "translateX": 182.5,
+              },
+              Object {
+                "rotate": "240deg",
+              },
+              Object {
+                "translateX": -182.5,
+              },
+            ],
+            "width": 365,
+          },
+          Object {},
+        ]
+      }
+    />
+    <View
+      style={
+        Object {
+          "left": 0,
+          "position": "absolute",
+          "top": -48.666666666666664,
+          "transform": Array [
+            Object {
+              "rotate": "0deg",
+            },
+          ],
+          "zIndex": 10,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../images/speedometer-needle.png",
+          }
+        }
+        style={
+          Array [
+            Object {
+              "height": 730,
+              "resizeMode": "stretch",
+              "width": 730,
+            },
+            Object {
+              "height": 730,
+              "width": 730,
+            },
+            Object {},
+          ]
+        }
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#ffffff",
+            "borderTopLeftRadius": 365,
+            "borderTopRightRadius": 365,
+            "height": 225,
+            "justifyContent": "flex-end",
+            "overflow": "hidden",
+            "width": 450,
+          },
+          Object {
+            "borderTopLeftRadius": 365,
+            "borderTopRightRadius": 365,
+            "height": 219,
+            "width": 438,
+          },
+          Object {},
+        ]
+      }
+    />
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "marginVertical": 5,
+        },
+        Object {},
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "fontSize": 25,
+            "fontWeight": "bold",
+          },
+          Object {},
+        ]
+      }
+    >
+      50
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "fontSize": 16,
+            "fontWeight": "bold",
+          },
+          Object {
+            "color": "#f2cf1f",
+          },
+          Object {},
+        ]
+      }
+    >
+      Fair
+    </Text>
+  </View>
+</View>
+`;
