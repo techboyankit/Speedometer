@@ -61,18 +61,6 @@ const styles = StyleSheet.create({
 | minValue | 0 | number | Minimum Limit |
 | maxValue | 100 | number | Maximum Value |
 | allowedDecimals | 0 | number | Allowed Decimal Places |
-| easeDuration | 500| number | Ease Duration for the Needle animation |
-| labels | [Default Labels](#defaults) | array | Labels List |
-| needleImage | [Default Needle Image](#defaults) | string | Absolute path to the Needle Image |
-| wrapperStyle | {} | object | Wrapper Style |
-| outerCircleStyle   | {} | object | Outer Circle Style |
-| halfCircleStyle   | {} | object | Half Circle Style |
-| imageWrapperStyle | {} | object | Needle Image Wrapper Style |
-| imageStyle | {} | object | Needle Image Style |
-| innerCircleStyle | {} | object | Inner Circle Style |
-| labelWrapperStyle | {} | object | Label Wrapper Style |
-| labelStyle | {} | object | Label Style |
-| labelNoteStyle | {} | object | Label Note Style |
 
 ### Defaults
 ```
