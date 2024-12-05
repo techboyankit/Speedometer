@@ -1,4 +1,4 @@
-# react-native-speedometer [![Build Status]
+# react-native-speedometer 
 
 
 A Customizable Speedometer Implementation in React Native
